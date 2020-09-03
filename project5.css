@@ -1,0 +1,72 @@
+h3 {
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 400;
+    font-size: 1.25em;
+    padding: 0 0 5px 5px;
+    margin: 0;
+}
+
+.title{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGqqGEfq8DH3_9YqZ5yqG1NK_fb7wSyDG9rg&usqp=CAU);
+
+}
+.form-horizontal .form-group {
+margin-left: -25px;
+margin-right: -25px;
+
+}
+.form-group {
+    margin-bottom: 20px;
+}
+.prenoms-top label.title-2 {
+    width: 100%;
+    font-size: 16px;
+    margin-bottom: 0;
+    padding-bottom: 12px;
+    height: auto;
+    color: #2b2d32;
+    font-weight: normal;
+}
+.astro-top .title-2 {
+    font-family: 'ElleGabor';
+    font-size: 1.429em;
+    color: #000;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 25px;
+}
+label {
+    display: inline-block;
+    text-align: center;
+    padding-left: 50%;
+  }
+  .prenoms-top .form-control {
+    border: 1px solid #cdcdcd;
+    border-radius: 0;
+    -webkit-box-shadow: 0 0 0 rgba(0,0,0,0) inset;
+    box-shadow: 0 0 0 rgba(0,0,0,0) inset;
+    color: #2b2d32;
+    font-family: 'Playfair Display',serif;
+    font-size: 1.143em;
+    font-style: normal;
+    font-weight: normal;
+    height: 40px;
+    margin: 0 auto;
+    padding: 0 13px;
+    width: 235px;
+}
+
+  .form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem 1rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
